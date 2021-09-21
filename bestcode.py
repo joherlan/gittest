@@ -11,3 +11,5 @@ for i in range (10):
     print(x)
 
 print(2 + 2)
+
+x = "Tjena"
